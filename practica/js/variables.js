@@ -1,5 +1,5 @@
 //VARIABLES
-
+'use strict' //nos obliga a usar buenas practicas
 var country = "colombia";
 var city = "barranquilla";
 
